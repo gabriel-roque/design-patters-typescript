@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "description": "Design patters with Typescript",
   "author": "Gabriel Roque",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node-dev index.ts"
+  },
+  "dependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.2"
+  }
 }
