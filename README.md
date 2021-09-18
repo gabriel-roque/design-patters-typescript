@@ -9,6 +9,8 @@
 - **Creational**
   - [Factory Method](./creational/factory-method/index.ts)
   - [Abstract Factory](./creational/abstract-factory/index.ts)
+  - [Builder](./creational/builder/index.ts)
+  - [Singleton](./creational/singleton/index.ts)
 - **Sctrural**
   - []()
 - **Behavioral**
