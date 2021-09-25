@@ -4,10 +4,12 @@ import { factoryMethod } from './creational/factory-method'
 import { prototype } from './creational/prototype'
 import { singleton } from './creational/singleton'
 import { adapter } from './sctrutural/adapter'
+import { bridge } from './sctrutural/bridge'
 
 // factoryMethod()
 // abstractFactory()
 // builder()
 // singleton()
 // prototype()
-adapter()
+// adapter()
+bridge()

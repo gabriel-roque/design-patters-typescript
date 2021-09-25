@@ -13,6 +13,7 @@
   - [Singleton](./creational/singleton/index.ts)
   - [Prototype](./creational/prototype/index.ts)
 - **Sctrural**
-  - []()
+  - [Adapter](./sctrutural/adapter/index.ts)
+  - [Bridge](./sctrutural/bridge/index.ts)
 - **Behavioral**
   - []()
