@@ -15,5 +15,6 @@
 - **Sctrural**
   - [Adapter](./sctrutural/adapter/index.ts)
   - [Bridge](./sctrutural/bridge/index.ts)
+  - [Composite](./sctrutural/composite/index.ts)
 - **Behavioral**
   - []()
