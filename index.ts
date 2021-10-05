@@ -6,6 +6,7 @@ import { singleton } from './creational/singleton'
 import { adapter } from './sctrutural/adapter'
 import { bridge } from './sctrutural/bridge'
 import { composite } from './sctrutural/composite'
+import { decorator } from './sctrutural/decorator'
 
 // factoryMethod()
 // abstractFactory()
@@ -14,4 +15,5 @@ import { composite } from './sctrutural/composite'
 // prototype()
 // adapter()
 // bridge()
-composite()
+// composite()
+decorator()
