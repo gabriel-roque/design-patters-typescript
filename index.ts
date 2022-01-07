@@ -9,6 +9,7 @@ import { composite } from './sctrutural/composite'
 import { decorator } from './sctrutural/decorator'
 import { facade } from './sctrutural/facade'
 import { flyweight } from './sctrutural/flywieght'
+import { proxy } from './sctrutural/proxy'
 
 // factoryMethod()
 // abstractFactory()
@@ -20,4 +21,5 @@ import { flyweight } from './sctrutural/flywieght'
 // composite()
 // decorator()
 // facade()
-flyweight()
+// flyweight()
+proxy()

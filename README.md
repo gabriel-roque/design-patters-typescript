@@ -18,7 +18,7 @@
   - [Composite](./sctrutural/composite/index.ts)
   - [Decorator](./sctrutural/decorator/index.ts)
   - [Facade](./sctrutural/facade/index.ts)
-  - [Flywight](./sctrutural/flywight/index.ts)
+  - [Flywight](./sctrutural/flywieght/index.ts)
   - [Proxy](./sctrutural/proxy/index.ts)
 - **Behavioral**
   - []()
