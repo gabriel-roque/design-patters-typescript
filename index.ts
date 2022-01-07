@@ -7,6 +7,7 @@ import { adapter } from './sctrutural/adapter'
 import { bridge } from './sctrutural/bridge'
 import { composite } from './sctrutural/composite'
 import { decorator } from './sctrutural/decorator'
+import { facade } from './sctrutural/facade'
 
 // factoryMethod()
 // abstractFactory()
@@ -16,4 +17,5 @@ import { decorator } from './sctrutural/decorator'
 // adapter()
 // bridge()
 // composite()
-decorator()
+// decorator()
+facade()
