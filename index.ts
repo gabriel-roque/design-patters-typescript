@@ -11,6 +11,7 @@ import { decorator } from './sctrutural/decorator'
 import { facade } from './sctrutural/facade'
 import { flyweight } from './sctrutural/flywieght'
 import { proxy } from './sctrutural/proxy'
+import { command } from './behavioral/command';
 
 // factoryMethod()
 // abstractFactory()
@@ -24,4 +25,5 @@ import { proxy } from './sctrutural/proxy'
 // facade()
 // flyweight()
 // proxy()
-chainOfResponsability()
+// chainOfResponsability()
+command()
