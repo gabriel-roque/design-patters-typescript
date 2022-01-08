@@ -1,3 +1,4 @@
+import { chainOfResponsability } from './behavioral/chain-of-responsability'
 import { abstractFactory } from './creational/abstract-factory'
 import { builder } from './creational/builder'
 import { factoryMethod } from './creational/factory-method'
@@ -22,4 +23,5 @@ import { proxy } from './sctrutural/proxy'
 // decorator()
 // facade()
 // flyweight()
-proxy()
+// proxy()
+chainOfResponsability()
