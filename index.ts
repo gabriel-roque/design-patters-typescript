@@ -13,6 +13,7 @@ import { flyweight } from './sctrutural/flywieght'
 import { proxy } from './sctrutural/proxy'
 import { command } from './behavioral/command';
 import { mediator } from './behavioral/mediator'
+import { memento } from './behavioral/memento'
 
 // factoryMethod()
 // abstractFactory()
@@ -28,4 +29,5 @@ import { mediator } from './behavioral/mediator'
 // proxy()
 // chainOfResponsability()
 // command()
-mediator()
+// mediator()
+memento()
