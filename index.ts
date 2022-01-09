@@ -14,6 +14,7 @@ import { proxy } from './sctrutural/proxy'
 import { command } from './behavioral/command';
 import { mediator } from './behavioral/mediator'
 import { memento } from './behavioral/memento'
+import { observer } from './behavioral/observer'
 
 // factoryMethod()
 // abstractFactory()
@@ -30,4 +31,5 @@ import { memento } from './behavioral/memento'
 // chainOfResponsability()
 // command()
 // mediator()
-memento()
+// memento()
+observer()
