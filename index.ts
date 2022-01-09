@@ -12,6 +12,7 @@ import { facade } from './sctrutural/facade'
 import { flyweight } from './sctrutural/flywieght'
 import { proxy } from './sctrutural/proxy'
 import { command } from './behavioral/command';
+import { mediator } from './behavioral/mediator'
 
 // factoryMethod()
 // abstractFactory()
@@ -26,4 +27,5 @@ import { command } from './behavioral/command';
 // flyweight()
 // proxy()
 // chainOfResponsability()
-command()
+// command()
+mediator()

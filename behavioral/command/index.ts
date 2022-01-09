@@ -79,9 +79,6 @@ class Invoker {
   }
 }
 
-
-
-
 function clientCodeContext() {
   const invoker = new Invoker();
   invoker.setOnStart(new SimpleCommand('Say Hi!'));
