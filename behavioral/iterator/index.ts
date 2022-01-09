@@ -46,7 +46,7 @@ class AlphabeticalOrderIterator implements Iterator<string> {
     return this.position;
   }
 
-  public next(): string {
+  public next(): string | any {
     const item = this.collection.getItems()[this.position];
     this.position += this.reverse ? -1 : 1;
     return item;
