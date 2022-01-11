@@ -18,6 +18,7 @@ import { observer } from './behavioral/observer'
 import { state } from './behavioral/state'
 import { strategy } from './behavioral/strategy'
 import { templateMethod } from './behavioral/template-method'
+import { visitor } from './behavioral/visitor'
 
 // factoryMethod()
 // abstractFactory()
@@ -38,4 +39,5 @@ import { templateMethod } from './behavioral/template-method'
 // observer()
 // state()
 // strategy()
-templateMethod()
+// templateMethod()
+// visitor()
