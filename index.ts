@@ -17,6 +17,7 @@ import { memento } from './behavioral/memento'
 import { observer } from './behavioral/observer'
 import { state } from './behavioral/state'
 import { strategy } from './behavioral/strategy'
+import { templateMethod } from './behavioral/template-method'
 
 // factoryMethod()
 // abstractFactory()
@@ -36,4 +37,5 @@ import { strategy } from './behavioral/strategy'
 // memento()
 // observer()
 // state()
-strategy()
+// strategy()
+templateMethod()
