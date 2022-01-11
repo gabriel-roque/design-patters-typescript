@@ -16,6 +16,7 @@ import { mediator } from './behavioral/mediator'
 import { memento } from './behavioral/memento'
 import { observer } from './behavioral/observer'
 import { state } from './behavioral/state'
+import { strategy } from './behavioral/strategy'
 
 // factoryMethod()
 // abstractFactory()
@@ -34,4 +35,5 @@ import { state } from './behavioral/state'
 // mediator()
 // memento()
 // observer()
-state()
+// state()
+strategy()
